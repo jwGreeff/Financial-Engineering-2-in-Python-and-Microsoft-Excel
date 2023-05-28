@@ -1,7 +1,7 @@
-### Third Year Financial Engineering 2 in Python and Microsoft Excel,
+### Third Year Financial Engineering 2 in Python and Microsoft Excel
 
 The following textbooks are followed:<br> 
-&emsp; - <a href='https://www.amazon.com/Mathematics-Finance-Applied-Undergraduate-Texts/dp/0821847937#detailBullets_feature_div'>Stampfli, J. and Goodman, V, The Mathematics of Finance: Modeling and Hedging, First Edition, Brooks/Cole, 2001.</a> <br>
+&emsp; - <a href='https://www.amazon.com/Mathematics-Finance-Applied-Undergraduate-Texts/dp/0821847937#detailBullets_feature_div'>Stampfli, J. and Goodman, V, The Mathematics of Finance: Modeling and Hedging, First Edition, Brooks/Cole, &emsp; &emsp; 2001.</a> <br>
 &emsp; - <a href='https://www.amazon.com/Options-Futures-Other-Derivatives-Global/dp/1292410655/ref=d_pd_sbs_vft_none_sccl_1_1/146-2724929-6254905?pd_rd_w=h8BzZ&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=10APVXRS85YS4TJMJ1KG&pd_rd_wg=VzeJP&pd_rd_r=d515fd51-852c-4d4a-a259-8cc6bffc5aa9&pd_rd_i=1292410655&psc=1'>Hull, J.C, Options Futures and Other Derivatives, Eleventh Edition, Prentice Hall, 2021</a>.<br>
 &emsp; - <a href='https://www.amazon.com/Arbitrage-Theory-Continuous-Oxford-Finance/dp/019957474X'>Bjork, T, Arbitrage Theory in Continuous Time, Third Edition, Oxford University Press, 2009.</a> <br><br>
 
