@@ -20,6 +20,6 @@ The subject matter of the course are divided into the following themes:<br><br>
 &emsp; &emsp; The Merton Modeland the Jarrow, Landow, Turnbull Model. <br>
 
 <b>Spesific computational topics explored in Microsoft Excel:</b><br>
-&emsp; &emsp; - Calibrating the (discrete) binomial model. We use the Cox-Ross-Rubenstein approach for our binomial tree &emsp; &emsp; &emsp; &emsp; model.<br>
+&emsp; &emsp; - Calibrating the (discrete) binomial model. We use the Cox-Ross-Rubenstein approach for our binomial tree &emsp; &emsp; &emsp; &emsp;model.<br>
 &emsp; &emsp; - Using of market data to find implied volatilities.<br>
-&emsp; &emsp; - Using implied volatilities together with the Black-Scholes formulae, binomial trees and spreadsheets to price &emsp; &emsp; &emsp; &emsp; various derivative securities.
+&emsp; &emsp; - Using implied volatilities together with the Black-Scholes formulae, binomial trees and spreadsheets to price &emsp; &emsp; &emsp; various derivative securities.
