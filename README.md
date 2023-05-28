@@ -11,7 +11,7 @@ The subject matter of the course are divided into the following themes:<br><br>
 <b>Theme 2 . n-Step Binomial Trees. </b><br>
 &emsp; &emsp; Pricing of forwards options and implementing delta hedging with the n-step binomial model. <br>
 <b>Theme 3 . Brownian Motion and Stochastic Calculus.</b> <br>
-&emsp; &emsp; Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and &emsp; &emsp; &emsp; &emsp; Feynman Kac Method <br>
+&emsp; &emsp; Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and &emsp; &emsp; &emsp; Feynman Kac Method <br>
 <b>Theme 4 . Continuous Models: Black-Scholes Theory</b> <br>
 &emsp; &emsp; Log-Normal Stock model, Self-financing Strategies, Solving and modelling Black-Scholes PDE, Risk Neutral &emsp; &emsp; &emsp; &emsp; Strategies, Hedging and the Greeks. <br>
 <b>Theme 5 . The Term Structure of Interest Rates and Bonds</b> <br>
