@@ -8,15 +8,15 @@ The following textbooks are followed:<br>
 The subject matter of the course are divided into the following themes:<br><br>
 <b>1. Arbitrage, replicating portfolios, the single step binomial model.</b> <br>
 Pricing of forwards options and implementing delta hedging with the single step binomial model. <br>
-<b>2. n-Step Binomial Trees. </b><br>
+<br><b>2. n-Step Binomial Trees. </b><br>
 Pricing of forwards options and implementing delta hedging with the n-step binomial model. <br>
-<b>3. Brownian Motion and Stochastic Calculus.</b> <br>
+<br><b>3. Brownian Motion and Stochastic Calculus.</b> <br>
 Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and Feynman Kac Method <br>
-<b>4. Continuous Models: Black-Scholes Theory</b> <br>
+<br><b>4. Continuous Models: Black-Scholes Theory</b> <br>
 Log-Normal Stock model, Self-financing Strategies, Solving and modelling Black-Scholes PDE, Risk Neutral Strategies, Hedging and the Greeks. <br>
-<b>5. The Term Structure of Interest Rates and Bonds</b> <br>
+<br><b>5. The Term Structure of Interest Rates and Bonds</b> <br>
 Interest Rates, Forward Rates, Yield Curves, Market Price of Risk, Bond Price Models, Short Rate Models. <br>
-<b>6. Credit Risk</b> <br>
+<br><b>6. Credit Risk</b> <br>
 The Merton Modeland the Jarrow, Landow, Turnbull Model. <br>
 
 <b>Spesific computational topics explored in Microsoft Excel:</b><br>
