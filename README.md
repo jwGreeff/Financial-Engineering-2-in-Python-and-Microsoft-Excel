@@ -6,17 +6,17 @@ The following textbooks are followed:<br>
 &emsp; - <a href='https://www.amazon.com/Arbitrage-Theory-Continuous-Oxford-Finance/dp/019957474X'>Bjork, T, Arbitrage Theory in Continuous Time, Third Edition, Oxford University Press, 2009.</a> <br>
 
 The subject matter of the course are divided into the following themes:<br><br>
-<b>Theme 1 . Arbitrage, replicating portfolios, the single step binomial model.</b> <br>
+<b>1. Arbitrage, replicating portfolios, the single step binomial model.</b> <br>
 &emsp; &emsp; Pricing of forwards options and implementing delta hedging with the single step binomial model. <br>
-<b>Theme 2 . n-Step Binomial Trees. </b><br>
+<b>2. n-Step Binomial Trees. </b><br>
 &emsp; &emsp; Pricing of forwards options and implementing delta hedging with the n-step binomial model. <br>
-<b>Theme 3 . Brownian Motion and Stochastic Calculus.</b> <br>
+<b>3. Brownian Motion and Stochastic Calculus.</b> <br>
 &emsp; &emsp; Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and &emsp; &emsp; &emsp; Feynman Kac Method <br>
-<b>Theme 4 . Continuous Models: Black-Scholes Theory</b> <br>
+<b>4. Continuous Models: Black-Scholes Theory</b> <br>
 &emsp; &emsp; Log-Normal Stock model, Self-financing Strategies, Solving and modelling Black-Scholes PDE, Risk Neutral &emsp; &emsp; &emsp; &emsp; Strategies, Hedging and the Greeks. <br>
-<b>Theme 5 . The Term Structure of Interest Rates and Bonds</b> <br>
+<b>5. The Term Structure of Interest Rates and Bonds</b> <br>
 &emsp; &emsp; Interest Rates, Forward Rates, Yield Curves, Market Price of Risk, Bond Price Models, Short Rate Models. <br>
-<b>Theme 6 . Credit Risk</b> <br>
+<b>6. Credit Risk</b> <br>
 &emsp; &emsp; The Merton Modeland the Jarrow, Landow, Turnbull Model. <br>
 
 <b>Spesific computational topics explored in Microsoft Excel:</b><br>
