@@ -7,17 +7,17 @@ The following textbooks are followed:<br>
 
 The subject matter of the course are divided into the following themes:<br><br>
 <b>1. Arbitrage, replicating portfolios, the single step binomial model.</b> <br>
-&emsp; &emsp; Pricing of forwards options and implementing delta hedging with the single step binomial model. <br>
+Pricing of forwards options and implementing delta hedging with the single step binomial model. <br>
 <b>2. n-Step Binomial Trees. </b><br>
-&emsp; &emsp; Pricing of forwards options and implementing delta hedging with the n-step binomial model. <br>
+Pricing of forwards options and implementing delta hedging with the n-step binomial model. <br>
 <b>3. Brownian Motion and Stochastic Calculus.</b> <br>
-&emsp; &emsp; Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and &emsp; &emsp; &emsp; Feynman Kac Method <br>
+Brownian Motion, Stochastic Calculus and Ito Calculus, Stochastic Differential Equations, Stochastic PDE's and Feynman Kac Method <br>
 <b>4. Continuous Models: Black-Scholes Theory</b> <br>
-&emsp; &emsp; Log-Normal Stock model, Self-financing Strategies, Solving and modelling Black-Scholes PDE, Risk Neutral &emsp; &emsp; &emsp; &emsp; Strategies, Hedging and the Greeks. <br>
+Log-Normal Stock model, Self-financing Strategies, Solving and modelling Black-Scholes PDE, Risk Neutral Strategies, Hedging and the Greeks. <br>
 <b>5. The Term Structure of Interest Rates and Bonds</b> <br>
-&emsp; &emsp; Interest Rates, Forward Rates, Yield Curves, Market Price of Risk, Bond Price Models, Short Rate Models. <br>
+Interest Rates, Forward Rates, Yield Curves, Market Price of Risk, Bond Price Models, Short Rate Models. <br>
 <b>6. Credit Risk</b> <br>
-&emsp; &emsp; The Merton Modeland the Jarrow, Landow, Turnbull Model. <br>
+The Merton Modeland the Jarrow, Landow, Turnbull Model. <br>
 
 <b>Spesific computational topics explored in Microsoft Excel:</b><br>
 &emsp; &emsp; - Calibrating the (discrete) binomial model. We use the Cox-Ross-Rubenstein approach for our binomial tree &emsp; &emsp;&emsp; &emsp;model.<br>
